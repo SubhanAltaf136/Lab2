@@ -1,5 +1,6 @@
 cout<<"My name is:"<<Subhan";
 cout<<"Roll number is:"<<018";
+ 1st-sem
 2nd-sem
 cout<<"My subject is:"<<1.statics";
 cout<<"My subject is:"<<2.english";
@@ -13,3 +14,11 @@ cout<<"my subject is:"<<islmiyat";
 cout<<"my subject is:<<physics";
 cout<<"my subject is:<<ITS";
  1st-sem
+
+cout<<"My subject is:"<< English";
+cout<<"My subject is :"<<urdu";
+cout<<"My subject is :"<<math";
+cout<<"My subject is :"<<computer";
+cout<<"My subject is :"<<physics";
+cout<<"My subject is :"<<islmiyat";
+ fsc_subjects
