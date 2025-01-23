@@ -1,2 +1,8 @@
 cout<<"My name is:"<<Subhan";
 cout<<"Roll number is:"<<018";
+cout<<"My subject is:"<< English";
+cout<<"My subject is :"<<urdu";
+cout<<"My subject is :"<<math";
+cout<<"My subject is :"<<computer";
+cout<<"My subject is :"<<physics";
+cout<<"My subject is :"<<islmiyat";
